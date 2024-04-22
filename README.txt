@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1hecGOdVQP6gcwIrh92JEYm3yfdSNpY6UC8PZaaiLvFM/edit?usp=sharing
 
 Project title: 
-
+An Efficient Machine Learning Approach to Detect Sentiments from Text Data
 
 CSE713 
 Group Number: 5 (Row number)
